@@ -7,6 +7,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Tool-Registry/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Tool-Registry?style=social" alt="GitHub Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Tool-Registry/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Agent-Tool-Registry?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Tool-Registry/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ## 📌 Top AI Agent Tool Registry & MCP Catalog Ecosystem
@@ -32,7 +33,9 @@ This repository tracks notable **SaaS platforms** and **open-source repositories
 - [☁️ SaaS / Hosted Platforms](#-saas--hosted-platforms)
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [🔒 Security & Disclaimer](#-security--disclaimer)
+- [📈 Star History](#-star-history)
 
 ---
 
@@ -91,10 +94,25 @@ We welcome community contributions! Follow these steps to submit additions or up
 
 ---
 
+## 💖 Support & Sponsorship
+
+Thank you for visiting and using this repository! If you find this registry helpful in building your AI agent infrastructure, please consider supporting the project:
+
+- ⭐ **Star** this repository on GitHub to help others discover it!
+- 🍴 **Fork** and share it with your fellow AI developers and community.
+- ☕ **Sponsor / Buy me a coffee:** Support ongoing open-source updates and maintenance on [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+---
+
 ## 🔒 Security & Disclaimer
 
 - **Community Curated:** This list is maintained for educational and informational purposes. Inclusion does not imply official endorsement.
 - **Tool Privilege Risk:** Granting AI agents read/write capabilities to third-party tools creates data exfiltration and integrity risks. Implement fine-grained permission controls, scope limits, and human-in-the-loop validation for destructive actions.
+
+---
+
+## 📈 Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Agent-Tool-Registry&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Agent-Tool-Registry&type=date&legend=top-left)
 
 ---
 
