@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Tool-Registry/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Tool-Registry?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Tool-Registry/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Tool-Registry?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Tool-Registry/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Agent-Tool-Registry?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Tool-Registry/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -59,9 +59,9 @@ Below is a detailed comparison of commercial SaaS tool registries and integratio
 
 ## 🔓 Open-Source GitHub Projects
 
-Below are top open-source registries, MCP server indexes, and agent tool frameworks. The list is sorted by **GitHub Star Count (descending)**, with each star badge linking directly to the repository's stargazers page.
+Below are top open-source registries, MCP server indexes, and agent tool frameworks. The list is sorted by **GitHub Stars_Count (descending)**, with each Stars_Badge linking directly to the repository's stargazers page.
 
-| Open-Source Project 🐙 | Star Count & Stargazers ⭐️ | Description & Registry Role 🎯 |
+| Open-Source Project 🐙 | Stars_Count & Stargazers ⭐️ | Description & Registry Role 🎯 |
 | :--- | :--- | :--- |
 | **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** | [<img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white" alt="LangChain Stars"/>](https://github.com/langchain-ai/langchain/stargazers) | Standard framework for building LLM applications; includes comprehensive tool & integration ecosystem. |
 | **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** | [<img src="https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social&color=white" alt="MCP Servers Stars"/>](https://github.com/modelcontextprotocol/servers/stargazers) | Official reference implementation repository of Model Context Protocol (MCP) servers maintained by Anthropic & community. |
